@@ -1,0 +1,19 @@
+{
+    "ALS": {
+        "factors": 170,
+        "regularization": 1.765321361230903,
+        "alpha": 14.592401000057341,
+        "iterations": 137,
+        "random_state": 122333,
+        "use_native": true,
+        "use_cg": true
+    },
+    "BM25Recommender": {
+        "K": 180,
+        "K1": 0.5130652138104642,
+        "B": 0.3907455473746348
+    },
+    "NfirstHybrid": {
+        "n": 0.2
+    }
+}
